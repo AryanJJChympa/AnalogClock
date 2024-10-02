@@ -1,0 +1,29 @@
+12 hours= 360degree(12hours mei 360 degree ghum ta hai hour ki needle)
+
+so,
+    In one hour the needle should rotate :
+                    (1hour=360/12)
+
+
+HOUR HAND{
+60 mins = 30degree
+(so 1min =30/60 =1/2 = m/2)
+
+1) (for h Hours: 30h + m/2)
+
+}
+
+MIN HAND{
+
+2) (m mins=6m degree)
+
+60mins=360degree
+1min = 6degree
+
+}
+SECONDS HAND
+
+3)(s seconds= 6s degree)
+
+60 seconds =360 degree
+So, 1 second = 6 degree
